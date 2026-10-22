@@ -306,7 +306,10 @@ DIVIDE (
 
 These measures can support KPI comparison indicators when the reporting period and filter context are set correctly.
  - ## clean dataset
- - <img width="1335" height="555" alt="Screenshot 2026-10-22 125244" src="https://github.com/user-attachments/assets/eeb87ed1-3b29-4587-ab50-73a2c738f3b7" />
+ - <img width="1356" height="626" alt="Screenshot 2026-10-22 130127" src="https://github.com/user-attachments/assets/270de5ef-6e76-4002-98b8-a676a70dce97" />
+ -<img width="1305" height="582" alt="Screenshot 2026-10-22 130200" src="https://github.com/user-attachments/assets/c395652c-a38f-4140-a7be-7eab04f7d4f2" />
+
+
 
 
 ## 🔎 7. Key Analysis Questions
